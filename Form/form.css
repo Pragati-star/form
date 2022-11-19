@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(47, 100, 135);
+}
+.Box{
+    height: 1200px;
+    width:80%;
+    border: radius 5%;
+    margin-top:5%;
+    margin-left:10%;
+    margin-right: 20%;
+    background-color:rgb(221, 223, 221);
+    /* color: azure; */
+    font-size: 25px;
+    text-align: center;
+}
+
+.functions{
+    height: 100px;
+    width: 70%;
+    display: inline-block;
+}

@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(51, 55, 58);
+}
+.Box{
+    height: 700px;
+    width:80%;
+    border: radius 5%;
+    margin-top:0%;
+    margin-left:10%;
+    margin-right: 5%;
+    background-color:rgb(222, 227, 222);
+    /* color: azure; */
+    font-size: 25px;
+    text-align: center;
+}
